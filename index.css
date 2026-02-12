@@ -1,8 +1,13 @@
 body {
-    background: #202020;
+    background: #1f0808;
     color: white;
 }
  img{
     width: 50%;
     height: 50%;
  }
+  nav{
+    color: aqua;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+  }
